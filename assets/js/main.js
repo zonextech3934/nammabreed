@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded',()=>{
             </div>
           </div>
           <div class="purchase-form" data-form-for="${r.name}">
-            <form action="https://formsubmit.co/dhanuragavan6739@gmail.com" method="POST" onsubmit="return handleSubmit(event,this)">
+            <form action="https://formsubmit.co/yapz100305@gmail.com" method="POST" onsubmit="return handleSubmit(event,this)">
               <input type="hidden" name="Rooster" value="${r.name}">
               <input type="hidden" name="Price" value="₹${r.price}">
               <div class="form-row" style="margin-bottom:8px"><input name="Name" type="text" placeholder="Your name / உங்கள் பெயர்" required><input name="Phone" type="tel" placeholder="Phone / தொலைபேசி" required></div>
